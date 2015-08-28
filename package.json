@@ -4,7 +4,7 @@
   "description": "Interpreted language coded live at bangalore js",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "node --harmony_arrow_functions test/runTests.js"
   },
   "author": "Mudit Ameta",
   "license": "ISC",
